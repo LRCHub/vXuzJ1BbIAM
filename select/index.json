@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夢の恋人",
+  "base_artist": "ノーナ・リーヴス",
+  "createdAt": "2026-02-15T05:34:20.600492Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢の恋人",
+      "artist": "NONA REEVES",
+      "has_synced": false,
+      "path": "select/pl_01_夢の恋人_NONA_REEVES.txt"
+    }
+  ]
+}
